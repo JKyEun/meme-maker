@@ -1,0 +1,1 @@
+- 코드 설명 : https://synonymous-island-173.notion.site/MEME-MAKER-2555f8ead0f9424798664bf2809da7b2
