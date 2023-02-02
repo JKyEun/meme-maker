@@ -1,1 +1,1 @@
-- 코드 설명 : https://synonymous-island-173.notion.site/MEME-MAKER-2555f8ead0f9424798664bf2809da7b2
+[코드 설명 및 공부 기록 노션 페이지](https://synonymous-island-173.notion.site/MEME-MAKER-2555f8ead0f9424798664bf2809da7b2)
